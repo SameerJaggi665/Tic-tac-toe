@@ -20,7 +20,7 @@ Installation
 
 Clone the repository:
 
-git clone ://github.com/SameerJaggi665/tic-tac-toe.git
+git clone ://github.com/SameerJaggi665/Tic-tac-toe.git
 
 Navigate to the project directory:
 
