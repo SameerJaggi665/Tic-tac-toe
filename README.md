@@ -20,7 +20,7 @@ Installation
 
 Clone the repository:
 
-git clone (https://sameerjaggi665.github.io/Tic-tac-toe/)
+git clone //github.com/SameerJaggi665/tic-tac-toe.git
 
 Navigate to the project directory:
 
@@ -30,7 +30,7 @@ Open the index.html file in your preferred browser.
 
 How to Play
 
-Launch the game by opening index.html.
+Launch the game by opening index.html or https://sameerjaggi665.github.io/Tic-tac-toe/
 
 Players take turns placing their symbols ("X" or "O") on the grid.
 
